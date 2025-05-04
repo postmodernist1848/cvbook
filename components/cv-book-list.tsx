@@ -4,6 +4,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import Link from "next/link"
 
 const people = [
+  "Серов Даниил Алексеевич",
   "Бугрий Илья Михайлович",
   "Соловьев Роман Сергеевич",
   "Салятов Сергей Леонидович",
